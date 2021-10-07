@@ -1,6 +1,6 @@
 
     $(function(){
-        $('.depype-menu .nav-item')[0].click();
+        $('.depype-menu .nav-item')[3].click();
     });
 
     $('.depype-menu .nav-item').on('click', function(){
